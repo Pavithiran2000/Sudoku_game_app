@@ -1,6 +1,8 @@
 # sudoku
+![alt text](./assets/app_icon.png)
 
 Sudoku Challenge is an addictive and intellectually stimulating Sudoku game built with Flutter, designed to challenge your puzzle-solving skills and keep you engaged for hours. Sharpen your mind, improve your logical thinking, and have fun while solving Sudoku puzzles on your device.
+
 
 ## Getting Started
 
